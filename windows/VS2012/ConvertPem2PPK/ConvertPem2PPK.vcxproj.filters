@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ssh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="misc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="putty.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sshbn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tree234.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sshblowf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="import.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshpubk.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="misc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="winmisc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshrand.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshecc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshmd5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshaes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshbn.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshdes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshbcrypt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshdss.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshrsa.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="conf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tree234.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="version.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshsh512.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshblowf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshsha.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sshsh256.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvertPem2PPK.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

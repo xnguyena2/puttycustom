@@ -1,0 +1,35 @@
+﻿  conf.c
+  import.c
+c:\users\nguyen phong\downloads\putty-src\windows\vs2012\convertpem2ppk\import.c(2217): warning C4018: '<': signed/unsigned mismatch
+  misc.c
+c:\users\nguyen phong\downloads\putty-src\windows\vs2012\convertpem2ppk\misc.c(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen phong\downloads\putty-src\windows\vs2012\convertpem2ppk\misc.c(1131): warning C4018: '<': signed/unsigned mismatch
+  sshaes.c
+  sshbcrypt.c
+  sshblowf.c
+  sshbn.c
+c:\users\nguyen phong\downloads\putty-src\windows\vs2012\convertpem2ppk\sshbn.c(1911): warning C4018: '<': signed/unsigned mismatch
+  sshdes.c
+  sshdss.c
+  sshecc.c
+  sshmd5.c
+  sshpubk.c
+  sshrand.c
+  sshrsa.c
+  sshsh256.c
+  sshsh512.c
+  sshsha.c
+  tree234.c
+  version.c
+  winmisc.c
+c:\users\nguyen phong\downloads\putty-src\windows\vs2012\convertpem2ppk\winmisc.c(148): warning C4133: 'function': incompatible types - from 'char *' to 'LPWSTR'
+c:\users\nguyen phong\downloads\putty-src\windows\vs2012\convertpem2ppk\winmisc.c(204): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(387): note: see declaration of 'GetVersionExW'
+c:\users\nguyen phong\downloads\putty-src\windows\vs2012\convertpem2ppk\winmisc.c(224): warning C4133: 'function': incompatible types - from 'char *' to 'LPWSTR'
+c:\users\nguyen phong\downloads\putty-src\windows\vs2012\convertpem2ppk\winmisc.c(229): warning C4133: 'function': incompatible types - from 'char *' to 'LPCWSTR'
+c:\users\nguyen phong\downloads\putty-src\windows\vs2012\convertpem2ppk\winmisc.c(278): warning C4133: 'function': incompatible types - from 'char [65536]' to 'LPWSTR'
+  ConvertPem2PPK.cpp
+  Generating code
+  All 349 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConvertPem2PPK.vcxproj -> C:\Users\Nguyen Phong\Downloads\putty-src\windows\VS2012\Release\ConvertPem2PPK.exe
